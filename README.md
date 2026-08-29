@@ -1,29 +1,35 @@
-# Java OOP Projects
+# Java OOP
 
-A collection of practical Java projects created to apply and strengthen Object-Oriented Programming (OOP) concepts and core Java fundamentals.
+A collection of practical Java examples and projects created to practice Java fundamentals and Object-Oriented Programming (OOP) concepts.
 
-## Projects
+## Topics Covered
 
-### NumberAnalyzer
-
-A simple Java program that demonstrates basic Java programming concepts through several methods:
-
-* Printing numbers in descending order
-* Checking whether numbers are even or odd
-* Determining whether a number is positive, negative, or zero
-* Calculating the sum of two numbers
-
-## Concepts Applied
-
-* Java Fundamentals
-* Object-Oriented Programming (OOP)
+* Java Basics
 * Classes and Objects
 * Methods
+* Constructors
 * Parameters and Return Values
+* Variables and Data Types
 * Conditional Statements
 * Loops
-* Variables and Data Types
-* Basic Problem Solving
+* Strings and String Methods
+* Character Methods
+* Basic Object-Oriented Programming Concepts
+
+## Examples
+
+The repository includes practical examples covering:
+
+* Creating and using objects
+* Defining and calling methods
+* Using constructors
+* Working with classes and objects
+* Performing basic calculations
+* Comparing Strings using `equals()` and `==`
+* Using String methods such as `substring()`, `indexOf()`, `trim()`, `startsWith()`, and `endsWith()`
+* Splitting Strings using `split()`
+* Working with characters using the `Character` class
+* Applying loops and conditional statements
 
 ## Technologies
 
@@ -32,9 +38,8 @@ A simple Java program that demonstrates basic Java programming concepts through 
 
 ## Purpose
 
-This repository contains practical exercises and projects developed while learning and practicing Java and Object-Oriented Programming concepts.
+This repository contains hands-on Java exercises and examples created to build a strong foundation in Java programming and Object-Oriented Programming concepts.
 
 ## Author
 
 **Roqaya Salim**
-
